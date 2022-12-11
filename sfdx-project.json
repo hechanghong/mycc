@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "mycc",
+      "default": true
+    }
+  ],
+  "name": "mycc",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
